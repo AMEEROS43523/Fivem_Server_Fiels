@@ -1,7 +1,7 @@
 welcome ....
 Important introduction:
 I am the developer of this server. This server has as many problems as in its first version
-When you download our product, you must log into our Discord server
+When you download our product, you must log into our Discord server https://discord.gg/e6zmnTh2DX
 Report problems to us and finally read our usage policy  .
 ----------------------------------------------------------------------------------------------------- -----------------
 Shaping - composition:
@@ -14,5 +14,5 @@ Usage Policy:
 2- You are not entitled to modify and re-download.
 3- You are not entitled to sell the product.
 4- You have the right to modify the content for the purpose of using it as a public server and not downloading or selling it.
-5- It is important that you enter Discord server.
+5- It is important that you enter Discord server https://discord.gg/e6zmnTh2DX .
 ----------------------------------------------------------------------------------------------------- ------------------------
