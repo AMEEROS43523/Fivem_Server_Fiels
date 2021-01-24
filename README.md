@@ -1,7 +1,7 @@
 welcome ....
 Important introduction:
 I am the developer of this server. This server has as many problems as in its first version
-When downloading our product, you must log in to our Discord server to download it because it exceeds the space specified on the website https://discord.gg/e6zmnTh2DX
+When downloading our product, you must log in to our Discord server to download it because it exceeds the space specified on the website
 Report problems to us and finally read our usage policy.
 https://discord.gg/f9tdZxSVar
 ----------------------------------------------------------------------------------------------------- -----------------
