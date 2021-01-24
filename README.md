@@ -1,8 +1,9 @@
 welcome ....
 Important introduction:
 I am the developer of this server. This server has as many problems as in its first version
-When you download our product, you must log into our Discord server https://discord.gg/e6zmnTh2DX
-Report problems to us and finally read our usage policy  .
+When downloading our product, you must log in to our Discord server to download it because it exceeds the space specified on the website https://discord.gg/e6zmnTh2DX
+Report problems to us and finally read our usage policy.
+https://discord.gg/f9tdZxSVar
 ----------------------------------------------------------------------------------------------------- -----------------
 Shaping - composition:
 1- Place the server folder on the disk  .
